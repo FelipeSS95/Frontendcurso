@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+div h1{ 
+    color: darkgoldenrod;
+}
+
+div h4, h6{
+    color: khaki;
+}
+
+div p{ 
+    color: aqua;
+}
+
+.titulo_1{
+    color: brown;
+}
